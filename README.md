@@ -1,16 +1,12 @@
-# todo_app_api
+# TODO APP
 
-A new Flutter project.
+## Explantion
 
-## Getting Started
+This TODO app built with GetX in Flutter showcases efficient state management, user interaction, and reactive UI updates. Here's a detailed explanation of the app, its structure, and the features it provides.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Create Tasks:** Add new tasks to stay organized.
+- **Read Tasks:** View all your tasks in one place.
+- **Update Tasks:** Edit existing tasks to keep them up-to-date.
+- **Delete Tasks:** Remove tasks that are no longer needed.
